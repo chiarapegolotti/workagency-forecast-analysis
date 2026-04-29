@@ -120,6 +120,8 @@ The bottom-left section contains a detailed table with key KPIs and performance 
 
 The bottom-right section shows a time series comparison between forecasted and actual revenue, helping to identify when deviations occur over time.
 
+![Dashboard](images/dashboard.png)
+
 ## Key Insights
 
 The analysis shows that variance is not evenly distributed over time and can present significant spikes that heavily influence overall performance metrics.
